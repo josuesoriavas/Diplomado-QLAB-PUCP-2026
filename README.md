@@ -9,3 +9,6 @@ This is a repo for the python course in PUCP
 11111
 11111
 11111
+# Actors
+1. Al pacino
+2. De Niro
