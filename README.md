@@ -14,3 +14,4 @@ This is a repo for the python course in PUCP
 1. Ciencia Politica
 2. Antropología
 3. Derecho
+4. Sociología
