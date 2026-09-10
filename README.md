@@ -9,3 +9,8 @@ This is a repo for the python course in PUCP
 11111
 11111
 11111
+
+# Carreras
+1. Ciencia Politica
+2. Antropología
+3. Derecho
